@@ -1,10 +1,13 @@
 {
   "name": "peschee.github.io",
   "version": "1.0.0-dev",
+  "description": "My personal site http://peschee.me",
+  "author": "Peter Siska",
   "private": true,
   "devDependencies": {
     "grunt": "*",
-    "grunt-jekyll": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-shell": "*",
     "matchdep": "*"
   }
 }
