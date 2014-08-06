@@ -3,11 +3,5 @@
   "version": "1.0.0-dev",
   "description": "My personal site http://peschee.me",
   "author": "Peter Siska",
-  "private": true,
-  "devDependencies": {
-    "grunt": "*",
-    "grunt-contrib-watch": "*",
-    "grunt-shell": "*",
-    "matchdep": "*"
-  }
+  "private": true
 }
