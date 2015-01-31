@@ -1,7 +1,4 @@
 {
-    "node": true,
-    "browser": true,
-    "esnext": true,
     "bitwise": true,
     "camelcase": true,
     "curly": true,
@@ -11,11 +8,14 @@
     "latedef": true,
     "newcap": true,
     "noarg": true,
-    "quotmark": "single",
+    "noempty": true,
+    "quotmark": true,
     "undef": true,
-    "unused": true,
+    "unused": false,
     "strict": true,
     "trailing": true,
-    "smarttabs": true,
-    "jquery": true
+    "node": true,
+    "eqnull": true,
+    "esnext": true,
+    "smarttabs": false
 }
