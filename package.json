@@ -1,0 +1,27 @@
+{
+  "name": "peschee.github.io",
+  "version": "1.0.0",
+  "description": "http://peschee.me",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-harp": "^0.1.4"
+  },
+  "devDependencies": {
+    "grunt-harp": "^0.1.4",
+    "load-grunt-tasks": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peschee/peschee.github.io.git"
+  },
+  "author": "Peter Siska <pesche@gridonic.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peschee/peschee.github.io/issues"
+  },
+  "homepage": "https://github.com/peschee/peschee.github.io"
+}
