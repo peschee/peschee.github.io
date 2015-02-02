@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/peschee/peschee.github.io/issues"
   },
-  "homepage": "https://github.com/peschee/peschee.github.io"
+  "homepage": "https://github.com/peschee/peschee.github.io",
+  "devDependencies": {
+    "jshint": "latest"
+  }
 }
